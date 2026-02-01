@@ -71,7 +71,7 @@ with st.sidebar:
 
     st.markdown("### Profile photo")
     st.image(
-        "C:/Users/vince/Documents/SUMMER SCHOOL/Streamlit Assignement/IMG_20250220_164738.jpg"
+        "IMG_20250220_164738.jpg"
     )
     st.markdown("---")
 
@@ -166,3 +166,4 @@ st.markdown("""
 """)
 
 st.write("---")
+
